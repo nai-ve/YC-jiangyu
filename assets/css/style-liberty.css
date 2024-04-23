@@ -2899,7 +2899,7 @@ textarea.form-control-lg {
     margin-top: .1rem;
     font-size: .875rem;
     color: #fff;
-    background-color: rgba(25, 135, 84, .9);
+    background-color: rgba(0, 0, 0, .0);
     border-radius: .25rem
 }
 
@@ -3009,7 +3009,7 @@ textarea.form-control.is-valid {
     margin-top: .1rem;
     font-size: .875rem;
     color: #fff;
-    background-color: rgba(220, 53, 69, .9);
+    background-color: rgba(0, 0, 0, .0);
     border-radius: .25rem
 }
 
@@ -4211,7 +4211,7 @@ fieldset:disabled .btn {
 .dropdown-menu-dark .dropdown-item:focus,
 .dropdown-menu-dark .dropdown-item:hover {
     color: #fff;
-    background-color: rgba(255, 255, 255, .15)
+    background-color: rgba(0, 0, 0, .0)
 }
 
 .dropdown-menu-dark .dropdown-item.active,
@@ -5904,7 +5904,7 @@ fieldset:disabled .btn {
     max-width: 100%;
     font-size: .875rem;
     pointer-events: auto;
-    background-color: rgba(255, 255, 255, .85);
+    background-color: rgba(0, 0, 0, .85);
     background-clip: padding-box;
     border: 1px solid rgba(0, 0, 0, .1);
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
@@ -5936,7 +5936,7 @@ fieldset:disabled .btn {
     align-items: center;
     padding: .5rem .75rem;
     color: #6c757d;
-    background-color: rgba(255, 255, 255, .85);
+    background-color: rgba(0, 0, 0, .0);
     background-clip: padding-box;
     border-bottom: 1px solid rgba(0, 0, 0, .05);
     border-top-left-radius: calc(.25rem - 1px);
